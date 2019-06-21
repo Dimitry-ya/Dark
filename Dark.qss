@@ -22,7 +22,7 @@
 
 QMainWindow,
 QDockWidget {
-  background-color: #2e2e2e;
+  background-color: #2e2e2e;border-radius: 2px;
 }
 
 QDialog,
